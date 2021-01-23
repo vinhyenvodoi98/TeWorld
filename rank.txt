@@ -1,0 +1,4 @@
+nga 400
+thao 100
+hanh 0
+
